@@ -38,6 +38,10 @@ h3 {
 .pricing-section-header h1 {
   padding: 0.5em 0;
 }
+.pricing-section-header span{
+  color:var(--light-grayish-blue);
+}
+
 .price-toggler {
   position: relative;
 }
