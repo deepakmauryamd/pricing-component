@@ -13,6 +13,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   box-sizing: border-box;
+  background: var(--very-light-grayish-blue);
 }
 
 .pricing-section {
